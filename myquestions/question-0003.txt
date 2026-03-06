@@ -1,0 +1,10 @@
+Problema: Clasificación de riesgo cardiovascular
+
+Escribe una función llamada entrenar_modelo_riesgo(df, target_col).
+
+La función debe:
+
+1. Separar X e y usando target_col
+2. Escalar X usando StandardScaler
+3. Entrenar un modelo LogisticRegression
+4. Retornar la exactitud (accuracy) del modelo usando el mismo dataset
