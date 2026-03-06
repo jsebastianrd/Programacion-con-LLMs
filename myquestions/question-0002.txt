@@ -1,0 +1,15 @@
+Problema: Limpieza de datos de laboratorio clínico
+
+Escribe una función llamada limpiar_datos_glucosa(df).
+
+El DataFrame contiene:
+
+- paciente
+- glucosa
+- colesterol
+
+La función debe:
+
+1. Eliminar filas con valores NaN
+2. Eliminar filas donde glucosa <= 0
+3. Retornar el DataFrame limpio
