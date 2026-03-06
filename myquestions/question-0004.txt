@@ -1,0 +1,8 @@
+Problema: Agrupamiento de pacientes
+
+Escribe una función llamada agrupar_pacientes(df, n_clusters).
+
+La función debe:
+
+1. Aplicar KMeans con n_clusters
+2. Retornar un array con las etiquetas de cluster asignadas a cada fila.
