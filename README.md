@@ -1,2 +1,3 @@
-# Programacion-con-LLMs
-Repositorio donde se llevan acabo el trabajo de LLMs
+# Programacion con LLMs
+Nombre: Juan Sebastian Rivillas Duran
+Correo institucional: jsebastian.rivillas@udea.edu.co
